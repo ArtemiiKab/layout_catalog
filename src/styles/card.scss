@@ -14,7 +14,7 @@ $image_width: 198px;
   width: 160px;
   height: 134px;
   margin: 30px 0;
-  transition: 1s;
+  transition: transform 1s, margin-top 0s;
 }
 
 .product-card__image:hover {
