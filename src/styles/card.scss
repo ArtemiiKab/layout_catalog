@@ -71,7 +71,7 @@ $main-color2: #f3f3f3;
     border-radius: 5px;
     margin-top: 20px;
     margin-bottom: 13px;
-    transition: 1s;
+    transition: background-color 1s, color 1s;
   }
 
   &__container-buy:hover {
@@ -93,7 +93,7 @@ $main-color2: #f3f3f3;
     justify-content: center;
     align-items: center;
     text-transform: uppercase;
-    transition: 1s;
+    transition: color 1s;
   }
 
   &__link-buy:hover {
