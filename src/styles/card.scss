@@ -17,7 +17,7 @@ $image-border-size: 3px;
     position: absolute;
     width: 160px;
     height: 134px;
-    margin-top: 30px - $img-border-size;
+    margin-top: 30px - $image-border-size;
     border: $image-border-size solid transparent;
     transition: transform 1s, padding 0s, border 1s;
   }
